@@ -1,7 +1,7 @@
 
 # Monitor Windows Services 
 
-Monitor, Start and Stop Services on Windows Server editions
+Monitor, Start and Stop Services on various Windows Server editions
 
 Howto install:
 
