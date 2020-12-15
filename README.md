@@ -1,5 +1,4 @@
-# windows
-Powershell script to Monitor/Start/Stop Services on Windows Server editions
+# Monitor, Start and Stop Services on Windows Server editions
 
 Howto install:
 
